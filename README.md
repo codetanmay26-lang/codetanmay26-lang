@@ -14,7 +14,7 @@ Email Me 👉 ✉️ **sharmatanmay875@gmail.com* For Collaboration/Project or A
 ---
 ## 🧩 Featured Projects
 
-#### 🩻 HealthSync – AI Continuity of Care  
+#### 🫀 HealthSync – AI Continuity of Care  
 **[Repo](https://github.com/codetanmay26-lang/healthsyc.git)** · **[Live Demo](https://healthsyc.vercel.app/)** . **[Demo Video](https://youtu.be/LDNUgNBE-Gw)**  
 
 *React (Vite), TypeScript, Tailwind, LocalStorage, Gemini API* [file:4]  
