@@ -6,10 +6,10 @@ Email Me 👉 ✉️ **sharmatanmay875@gmail.com* For Collaboration/Project or A
 ### 💡 About Me
 
 - 🎓 Computer Science student at **JIIT Noida** (2024–28)  
-- 🏗️ Building **end-to-end AI systems** across healthcare, media, and blockchain—data ingestion → intelligence → dashboards. [file:4][file:5][file:6]  
-- 🧠 Hands-on with **React, Vite, Tailwind, Node/Express, TypeScript, Move, Aptos SDK, Firebase, and AI APIs**. [file:4][file:5][file:6]  
-- 🩺 Focused on **continuity of care**, **media transparency**, and **secure digital infrastructure** for India-scale problems. [file:4][file:5][file:6]  
-- ⚙️ Comfortable owning the full stack: **scrapers, smart contracts, real-time analytics, role-based dashboards, and CI/CD**. [file:4][file:5][file:6]  
+- 🏗️ Building **end-to-end AI systems** across healthcare, media, and blockchain—data ingestion → intelligence → dashboards.  
+- 🧠 Hands-on with **React, Vite, Tailwind, Node/Express, TypeScript, Move, Aptos SDK, Firebase, and AI APIs**. 
+- 🩺 Focused on **continuity of care**, **media transparency**, and **secure digital infrastructure** for India-scale problems.  
+- ⚙️ Comfortable owning the full stack: **scrapers, smart contracts, real-time analytics, role-based dashboards, and CI/CD**.
 
 ---
 ## 🧩 Featured Projects
@@ -17,12 +17,12 @@ Email Me 👉 ✉️ **sharmatanmay875@gmail.com* For Collaboration/Project or A
 #### 🫀 HealthSync – AI Continuity of Care  
 **[Repo](https://github.com/codetanmay26-lang/healthsyc.git)** · **[Live Demo](https://healthsyc.vercel.app/)** . **[Demo Video](https://youtu.be/LDNUgNBE-Gw)**  
 
-*React (Vite), TypeScript, Tailwind, LocalStorage, Gemini API* [file:4]  
+*React (Vite), TypeScript, Tailwind, LocalStorage, Gemini API* 
 
-**HealthSync** connects hospitals, patients, pharmacies, and admins via role-based dashboards that track medications, vitals, lab reports, and engagement after discharge. [file:4]  
+**HealthSync** connects hospitals, patients, pharmacies, and admins via role-based dashboards that track medications, vitals, lab reports, and engagement after discharge.   
 
-- Built **multi-role flows** (doctor, patient, pharmacy, admin) with smart prescription uploads, AI lab-report analysis, and medication reminders backed by local analytics. [file:4]  
-- Implemented **real-time risk scoring** (deterioration, engagement, combined risk) and recommendations using longitudinal data stored in the browser. [file:4]  
+- Built **multi-role flows** (doctor, patient, pharmacy, admin) with smart prescription uploads, AI lab-report analysis, and medication reminders backed by local analytics.
+- Implemented **real-time risk scoring** (deterioration, engagement, combined risk) and recommendations using longitudinal data stored in the browser.
 
 ---
 
@@ -31,10 +31,10 @@ Email Me 👉 ✉️ **sharmatanmay875@gmail.com* For Collaboration/Project or A
 
 *React 18, Vite, Tailwind, Node.js, Express, Puppeteer, Cheerio, SQLite, D3/Recharts* [file:5]  
 
-**NewsTrack** is a self-contained media intelligence system that discovers an outlet’s official site, extracts journalist profiles, and visualizes the newsroom as an interactive network. [file:5]  
+**NewsTrack** is a self-contained media intelligence system that discovers an outlet’s official site, extracts journalist profiles, and visualizes the newsroom as an interactive network.   
 
-- Engineered a **dual-engine scraper** (Puppeteer + Cheerio) with outlet-specific logic and a universal fallback, plus NLP keyword extraction for beats and topics. [file:5]  
-- Stored journalist/topic/keyword graphs in **SQLite** and exposed them via a dashboard with stats cards, network graphs, tables, and CSV/JSON export. [file:5]  
+- Engineered a **dual-engine scraper** (Puppeteer + Cheerio) with outlet-specific logic and a universal fallback, plus NLP keyword extraction for beats and topics.
+- Stored journalist/topic/keyword graphs in **SQLite** and exposed them via a dashboard with stats cards, network graphs, tables, and CSV/JSON export.
 
 ---
 
@@ -43,10 +43,10 @@ Email Me 👉 ✉️ **sharmatanmay875@gmail.com* For Collaboration/Project or A
 
 *React/Vite, TypeScript, Aptos Move, Petra Wallet, Express, Firebase* [file:6]  
 
-**AptosRx** lets doctors issue tamper-resistant prescriptions on the Aptos blockchain and pharmacies verify and mark them as used, with an off-chain Firestore mirror. [file:6]  
+**AptosRx** lets doctors issue tamper-resistant prescriptions on the Aptos blockchain and pharmacies verify and mark them as used, with an off-chain Firestore mirror.
 
-- Wrote a **Move module** (`aptosrxprescription`) with `issueprescription`, `verifyprescription`, and `markused` for one-time-use, hash-verified prescriptions. [file:6]  
-- Built doctor/pharmacy UIs with **wallet integration, SHA‑256 hashing, Firestore persistence, and a TypeScript client** talking to both the smart contract and Express backend. [file:6]  
+- Wrote a **Move module** (`aptosrxprescription`) with `issueprescription`, `verifyprescription`, and `markused` for one-time-use, hash-verified prescriptions.
+- Built doctor/pharmacy UIs with **wallet integration, SHA‑256 hashing, Firestore persistence, and a TypeScript client** talking to both the smart contract and Express backend.  
 
 ---
 
