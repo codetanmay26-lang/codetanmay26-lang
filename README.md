@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Tanmay Sharma
 **A passionate Frontend Engineer || AI/ML DEV || 4x Hackathon Winner**
 
-Email Me 👉 ✉️ **sharmatanmay875@gmail.com* For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sharmatanmay875@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ### 💡 About Me
 
