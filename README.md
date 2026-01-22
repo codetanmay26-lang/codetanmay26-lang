@@ -39,7 +39,7 @@ Email Me 👉 ✉️ **sharmatanmay875@gmail.com** For Collaboration/Project or 
 ---
 
 #### 💊 AptosRx – Blockchain Prescription Verification  
-**[Repo](https://github.com/codetanmay26-lang/aptos-rx.git)** · **[Live Demo](https://aptos-rx.onrender.com/)** . **[Demo Video](https://youtu.be/UaV2lS9TTdA)**  
+**[Repo](https://github.com/codetanmay26-lang/aptos-rx.git)**  . **[Demo Video](https://youtu.be/UaV2lS9TTdA)**  
 
 *React/Vite, TypeScript, Aptos Move, Petra Wallet, Express, Firebase* [file:6]  
 
