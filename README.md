@@ -29,7 +29,7 @@ Email Me 👉 ✉️ **sharmatanmay875@gmail.com** For Collaboration/Project or 
 #### 📰 NewsTrack – AI Media Intelligence  
 **[Repo](https://github.com/codetanmay26-lang/newstrack.git)** . **[Demo Video](https://youtu.be/Ag-PrIa1oz0)**  
 
-*React 18, Vite, Tailwind, Node.js, Express, Puppeteer, Cheerio, SQLite, D3/Recharts* [file:5]  
+*React 18, Vite, Tailwind, Node.js, Express, Puppeteer, Cheerio, SQLite, D3/Recharts* 
 
 **NewsTrack** is a self-contained media intelligence system that discovers an outlet’s official site, extracts journalist profiles, and visualizes the newsroom as an interactive network.   
 
@@ -41,7 +41,7 @@ Email Me 👉 ✉️ **sharmatanmay875@gmail.com** For Collaboration/Project or 
 #### 💊 AptosRx – Blockchain Prescription Verification  
 **[Repo](https://github.com/codetanmay26-lang/aptos-rx.git)**  . **[Demo Video](https://youtu.be/UaV2lS9TTdA)**  
 
-*React/Vite, TypeScript, Aptos Move, Petra Wallet, Express, Firebase* [file:6]  
+*React/Vite, TypeScript, Aptos Move, Petra Wallet, Express, Firebase* 
 
 **AptosRx** lets doctors issue tamper-resistant prescriptions on the Aptos blockchain and pharmacies verify and mark them as used, with an off-chain Firestore mirror.
 
