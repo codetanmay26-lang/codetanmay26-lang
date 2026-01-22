@@ -17,7 +17,7 @@ Email Me 👉 ✉️ **sharmatanmay875@gmail.com** For Collaboration/Project or 
 #### 🫀 HealthSync – AI Continuity of Care  
 **[Repo](https://github.com/codetanmay26-lang/healthsyc.git)** · **[Live Demo](https://health-sync-vert.vercel.app/)** . **[Demo Video](https://youtu.be/pTNy6nqIuh0)**  
 
-*React (Vite), TypeScript, Tailwind, LocalStorage, Gemini API* 
+*React (Vite), JavaScript, Tailwind, LocalStorage, Gemini API* 
 
 **HealthSync** connects hospitals, patients, pharmacies, and admins via role-based dashboards that track medications, vitals, lab reports, and engagement after discharge.   
 
